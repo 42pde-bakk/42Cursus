@@ -17,7 +17,7 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
 [get_next_line](https://github.com/42pde-bakk/get_next_line) | The aim of this project is to make you code a function<br>that returns a line and read from a file descriptor. | [![pde-bakk's get_next_line Score](https://badge42.herokuapp.com/api/project/pde-bakk/get_next_line)](https://projects.intra.42.fr/42cursus-get_next_line/pde-bakk) |
-[Netwhat](https://github.com/42pde-bakk/Netwhat) | Quiz to test your network knowledge. | [![pde-bakk's Netwhat Score](https://badge42.herokuapp.com/api/project/pde-bakk/Netwhat)](https://projects.intra.42.fr/42cursus-netwhat/pde-bakk) |
+[Netwhat](https://github.com/42pde-bakk/Netwhat) | Quiz to test your network knowledge. | Project deprecated |
 [ft_printf](https://github.com/42pde-bakk/ft_printf) | Because putnbr and putstr aren’t enough. | [![pde-bakk's ft_printf Score](https://badge42.herokuapp.com/api/project/pde-bakk/ft_printf)](https://projects.intra.42.fr/42cursus-ft_printf/pde-bakk) |
 
 ## Rank 2
@@ -74,12 +74,15 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 |:---------------:|:-----------:|:----:|
 [ft_ping](https://github.com/42pde-bakk/ft_ping) | Re-coding the ping command will let you get acquainted with TCP/IP communication between two machines on a network. | [![pde-bakk's ft_ping Score](https://badge42.herokuapp.com/api/project/pde-bakk/ft_ping)](https://projects.intra.42.fr/42cursus-ft_ping/pde-bakk) |
 [libasm](https://github.com/42pde-bakk/libasm) | The aim of this project is to get familiar with assembly language. | [![pde-bakk's libasm Score](https://badge42.herokuapp.com/api/project/pde-bakk/libasm)](https://projects.intra.42.fr/42cursus-libasm/pde-bakk) |
+[malloc](https://github.com/42pde-bakk/malloc) |  This project is about implementing a dynamic memory allocation mechanism. | [![pde-bakk's malloc Score](https://badge42.herokuapp.com/api/project/pde-bakk/malloc)](https://projects.intra.42.fr/42cursus-malloc/pde-bakk) |
 
 ## Artificial Intelligence/Algorithms branch
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
 [n-puzzle](https://github.com/42pde-bakk/n_puzzle) | We are going to do, in any language,<br>a program capable to solve n-puzzles of various sizes, as optimized as possible. | [![pde-bakk's n-puzzle Score](https://badge42.herokuapp.com/api/project/pde-bakk/n-puzzle)](https://projects.intra.42.fr/42cursus-n-puzzle/pde-bakk) |
-[DSLR](https://github.com/42pde-bakk/DSLR) | Subject created by the 42AI association.<br>Discover Data Science in the projects where you re-constitute Poudlard’s Sorting Hat.<br>Warning: this is not a subject on cameras. | [![pde-bakk's libasm Score](https://badge42.herokuapp.com/api/project/pde-bakk/libasm)](https://projects.intra.42.fr/42cursus-libasm/pde-bakk) |
+[gomoku](https://github.com/42pde-bakk/gomoku) | The goal of this project is to make an AI capable of beating human players at Gomoku | [![pde-bakk's gomoku Score](https://badge42.herokuapp.com/api/project/pde-bakk/gomoku)](https://projects.intra.42.fr/42cursus-gomoku/pde-bakk) |
+[ft_linear_regression](https://github.com/42pde-bakk/ft_linear_regression) | In this project, you will implement your first machine learning algorithm. | [![pde-bakk's ft_linear_regression Score](https://badge42.herokuapp.com/api/project/pde-bakk/ft_linear_regression)](https://projects.intra.42.fr/42cursus-ft_linear_regression/pde-bakk) |
+[DSLR](https://github.com/42pde-bakk/DSLR) | Subject created by the 42AI association.<br>Discover Data Science in the projects where you re-constitute Poudlard’s Sorting Hat.<br>Warning: this is not a subject on cameras. | [![pde-bakk's DSLR Score](https://badge42.herokuapp.com/api/project/pde-bakk/dslr)](https://projects.intra.42.fr/42cursus-dslr/pde-bakk) |
 
 ## Other
 |			Name				| Description	| Mark |
