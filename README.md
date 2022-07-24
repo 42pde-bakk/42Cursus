@@ -86,6 +86,7 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 [gomoku](https://github.com/42pde-bakk/gomoku) | The goal of this project is to make an AI capable of beating human players at Gomoku | [![pde-bakk's gomoku Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2437513)](https://projects.intra.42.fr/42cursus-gomoku/pde-bakk) |
 [ft_linear_regression](https://github.com/42pde-bakk/ft_linear_regression) | In this project, you will implement your first machine learning algorithm. | [![pde-bakk's ft_linear_regression Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2472428)](https://projects.intra.42.fr/42cursus-ft_linear_regression/pde-bakk) |
 [DSLR](https://github.com/42pde-bakk/DSLR) | Subject created by the 42AI association.<br>Discover Data Science in the projects where you re-constitute Poudlard’s Sorting Hat.<br>Warning: this is not a subject on cameras. | [![pde-bakk's DSLR Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2295758)](https://projects.intra.42.fr/42cursus-dslr/pde-bakk) |
+[computorv1](https://github.com/42pde-bakk/computorv1) | In this project, you will implement your first machine learning algorithm. | [![pde-bakk's computorv1 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2591197)](https://projects.intra.42.fr/42cursus-computorv1/pde-bakk) |
 
 ## Other
 |			Name				| Description	| Mark |
