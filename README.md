@@ -1,7 +1,8 @@
 # 42Cursus
-Index repository for all the projects I've done at the 42 school of Codam.
+Index repository for all the projects I've done at the 42 school of Codam and 42Paris.
 
-[![pde-bakk's 42 stats](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/stats?cursusId=21&coalitionId=60)](https://github.com/42pde-bakk/42Cursus)
+[![pde-bakk's 42 stats](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/stats?cursusId=21&coalitionId=46)](https://github.com/42pde-bakk/42Cursus)
+[![pde-bakk's Codam stats](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/stats?cursusId=21&coalitionId=60)](https://github.com/42pde-bakk/42Cursus)
 
 These are all my projects in the 42Cursus of [Codam coding college](https://www.codam.nl/).
 
@@ -64,12 +65,17 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 |:---------------:|:-----------:|:----:|
 [ft_transcendence](https://github.com/42pde-bakk/ft_transcendence) | This is not C or C++ basic functions!<br>To do something that you’ve never done before without a piscine.<br> Remind yourself at the beginning of your journey in computer science.<br>Now, look where you are standing. Time to shine! | [![pde-bakk's ft_transcendence Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2073591)](https://projects.intra.42.fr/42cursus-ft_transcendence/pde-bakk) |
 
+
+
+
 # Codam Advanced
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
 [Internship I](https://github.com/42pde-bakk/internship-i) | Your first step in a company is an important milestone of your 42 training.<br>This internship entails discovering the professional world and putting your work and adaptation skills at the service of the market.<br>This is a first element for your resume and the opportunity to see emerge your future domain of interest. | [![pde-bakk's internship-i Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2136045)](https://projects.intra.42.fr/42cursus-internship-i/pde-bakk) |
 
-## Cybersecurity branch
+
+
+## Cybersecurity/Unix branch
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
 [ft_ping](https://github.com/42pde-bakk/ft_ping) | Re-coding the ping command will let you get acquainted with TCP/IP communication between two machines on a network. | [![pde-bakk's ft_ping Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2348776)](https://projects.intra.42.fr/42cursus-ft_ping/pde-bakk) |
@@ -79,6 +85,8 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 [strace](https://github.com/42pde-bakk/strace) |  First step in a serie of projects in C language leading to creation of a mini-GDB, this project will ask you to recode strace, a tool allowing you to list syscalls done by a running program. | [![pde-bakk's strace Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1974834)](https://projects.intra.42.fr/42cursus-strace/pde-bakk) |
 [ft_ssl_md5](https://github.com/42pde-bakk/ft_ssl) |  You will recode part of the OpenSSL program, specifically the MD5 Hashing Algorithm. | [![pde-bakk's ft_ssl_md5 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2647238)](https://projects.intra.42.fr/42cursus-ft_ssl_md5/pde-bakk) |
 
+
+
 ## Artificial Intelligence/Algorithms branch
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
@@ -86,9 +94,17 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 [gomoku](https://github.com/42pde-bakk/gomoku) | The goal of this project is to make an AI capable of beating human players at Gomoku | [![pde-bakk's gomoku Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2437513)](https://projects.intra.42.fr/42cursus-gomoku/pde-bakk) |
 [ft_linear_regression](https://github.com/42pde-bakk/ft_linear_regression) | In this project, you will implement your first machine learning algorithm. | [![pde-bakk's ft_linear_regression Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2472428)](https://projects.intra.42.fr/42cursus-ft_linear_regression/pde-bakk) |
 [DSLR](https://github.com/42pde-bakk/DSLR) | Subject created by the 42AI association.<br>Discover Data Science in the projects where you re-constitute Poudlard’s Sorting Hat.<br>Warning: this is not a subject on cameras. | [![pde-bakk's DSLR Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2295758)](https://projects.intra.42.fr/42cursus-dslr/pde-bakk) |
-[computorv1](https://github.com/42pde-bakk/computorv1) | In this project, you will implement your first machine learning algorithm. | [![pde-bakk's computorv1 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2591197)](https://projects.intra.42.fr/42cursus-computorv1/pde-bakk) |
+[computorv1](https://github.com/42pde-bakk/computorv1) | Rekindling with maths | [![pde-bakk's computorv1 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2591197)](https://projects.intra.42.fr/42cursus-computorv1/pde-bakk) |
+[Ready Set Boole](https://github.com/42pde-bakk/ready_set_boole) | Boolean Algebra | [![pde-bakk's ready-set-boole Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2686732)](https://projects.intra.42.fr/ready-set-boole/pde-bakk) |
+[Matrix](https://github.com/42pde-bakk/ready_set_boole) | Matrices | [![pde-bakk's matrix Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2760020)](https://projects.intra.42.fr/matrix/pde-bakk) |
 
 ## Other
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
-[inception-of-things](https://github.com/42pde-bakk/inception-of-things) | This project aims to introduce you to kubernetes from a developer perspective.<br>You will have to set up small clusters and discover the mechanics of continuous integration.<br>At the end of this project you will be able to have a working cluster in docker and<br>have a usable continuous integration for your applications. | [![pde-bakk's inception-of-things Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2391798)](https://projects.intra.42.fr/42cursus-inception-of-things/pde-bakk) |
+[inception-of-things](https://github.com/42pde-bakk/inception-of-things) | Kubernetes from a developer perspective | [![pde-bakk's inception-of-things Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2391798)](https://projects.intra.42.fr/42cursus-inception-of-things/pde-bakk) |
+[Bgp-At_Doors-of-Autonomous-Systems-is-Simple](https://github.com/42pde-bakk/badass) | Expand your networking knowledge | [![pde-bakk's Badass Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2811471)](https://projects.intra.42.fr/bgp-at-doors-of-autonomous-systems-is-simple/pde-bakk) |
+[Python Module 00](https://github.com/42pde-bakk/python_modules/tree/master/module00) | The eleven commandments | [![pde-bakk's Python Module 00 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2763128)](https://projects.intra.42.fr/python-module-00/pde-bakk) |
+[Python Module 01](https://github.com/42pde-bakk/python_modules/tree/master/module01) | OOP and more. | [![pde-bakk's Python Module 01 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2786394)](https://projects.intra.42.fr/python-module-01/pde-bakk) |
+[Python Module 02](https://github.com/42pde-bakk/python_modules/tree/master/module02) | Decorators, lambdas,<br>context managers and building packages. | [![pde-bakk's Python Module 02 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2800126)](https://projects.intra.42.fr/python-module-02/pde-bakk) |
+[Python Module 03](https://github.com/42pde-bakk/python_modules/tree/master/module03) | NumPy | [![pde-bakk's Python Module 03 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2805736)](https://projects.intra.42.fr/python-module-03/pde-bakk) |
+[Python Module 04](https://github.com/42pde-bakk/python_modules/tree/master/module04) | Pandas | [![pde-bakk's Python Module 04 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2807995)](https://projects.intra.42.fr/python-module-04/pde-bakk) |
