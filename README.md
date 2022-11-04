@@ -85,8 +85,8 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 [strace](https://github.com/42pde-bakk/strace) |  First step in a serie of projects in C language leading to creation of a mini-GDB, this project will ask you to recode strace, a tool allowing you to list syscalls done by a running program. | [![pde-bakk's strace Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1974834)](https://projects.intra.42.fr/42cursus-strace/pde-bakk) |
 [ft_ssl_md5](https://github.com/42pde-bakk/ft_ssl) |  You will recode part of the OpenSSL program, specifically the MD5 Hashing Algorithm. | [![pde-bakk's ft_ssl_md5 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2647238)](https://projects.intra.42.fr/42cursus-ft_ssl_md5/pde-bakk) |
 [ft_ssl_des](https://github.com/42pde-bakk/ft_ssl) |  Re-implementing the Data Encryption Standard | [![pde-bakk's ft_ssl_des Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2714376)](https://projects.intra.42.fr/42cursus-ft_ssl_des/pde-bakk) |
-[dr-quine](https://github.com/42pde-bakk/dr_quine) |  Re-implementing the Data Encryption Standard | [![pde-bakk's dr-quine Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2763144)](https://projects.intra.42.fr/42cursus-dr-quine/pde-bakk) |
-
+[dr-quine](https://github.com/42pde-bakk/dr_quine) | Kleene's recursion theorem! | [![pde-bakk's dr-quine Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2763144)](https://projects.intra.42.fr/42cursus-dr-quine/pde-bakk) |
+[Snow-crash](https://github.com/42pde-bakk/dr_quine) | Doing my best dpattij impression | [![pde-bakk's snow-crash Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2420360)](https://projects.intra.42.fr/42cursus-snow-crash/pde-bakk) |
 
 
 ## Artificial Intelligence/Algorithms branch
