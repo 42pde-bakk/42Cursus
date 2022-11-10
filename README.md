@@ -18,14 +18,14 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
 [get_next_line](https://github.com/42pde-bakk/get_next_line) | The aim of this project is to make you code a function<br>that returns a line and read from a file descriptor. | [![pde-bakk's get_next_line Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1625145)](https://projects.intra.42.fr/42cursus-get_next_line/pde-bakk) |
-[Netwhat](https://github.com/42pde-bakk/Netwhat) | Quiz to test your network knowledge. | [![pde-bakk's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1625148)](https://github.com/JaeSeoKim/badge42) |
+[Netwhat](https://github.com/42pde-bakk/) | Quiz to test your network knowledge. | [![pde-bakk's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1625148)](https://github.com/JaeSeoKim/badge42) |
 [ft_printf](https://github.com/42pde-bakk/ft_printf) | Because putnbr and putstr aren’t enough. | [![pde-bakk's ft_printf Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1625147)](https://projects.intra.42.fr/42cursus-ft_printf/pde-bakk) |
 
 ## Rank 2
 
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
-[ft_server](https://github.com/42pde-bakk/ft_server) | This is a System Administration subject. You will discover<br>Docker and you will set up your first web server. | [![pde-bakk's ft_server Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1640490)](https://projects.intra.42.fr/42cursus-ft_server/pde-bakk) |
+[ft_server](https://github.com/42pde-bakk/ft_server) | This is a System Administration subject. You will discover<br>Docker and you will set up your first web server. | [![pde-bakk's ft_server Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1640490)](https://github.com/JaeSeoKim/badge42) |
 [minirt](https://github.com/42pde-bakk/minirt) | This project is an introduction to the beautiful world of Raytracing. | [![pde-bakk's minirt Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1640764)](https://projects.intra.42.fr/minirt/pde-bakk) |
 [push_swap](https://github.com/42pde-bakk/push_swap) | This project will make you sort data on a stack,<br>with a limited set of instructions, using the lowest possible number of actions. | [![pde-bakk's push_swap Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2117285)](https://projects.intra.42.fr/42cursus-push_swap/pde-bakk) |
 
