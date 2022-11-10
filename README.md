@@ -26,7 +26,7 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
 [ft_server](https://github.com/42pde-bakk/ft_server) | This is a System Administration subject. You will discover<br>Docker and you will set up your first web server. | [![pde-bakk's ft_server Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1640490)](https://projects.intra.42.fr/42cursus-ft_server/pde-bakk) |
-[minirt](https://github.com/42pde-bakk/minirt) | This project is an introduction to the beautiful world of Raytracing. | [![pde-bakk's minirt Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1640764)](https://projects.intra.42.fr/42cursus-minirt/pde-bakk) |
+[minirt](https://github.com/42pde-bakk/minirt) | This project is an introduction to the beautiful world of Raytracing. | [![pde-bakk's minirt Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1640764)](https://projects.intra.42.fr/minirt/pde-bakk) |
 [push_swap](https://github.com/42pde-bakk/push_swap) | This project will make you sort data on a stack,<br>with a limited set of instructions, using the lowest possible number of actions. | [![pde-bakk's push_swap Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2117285)](https://projects.intra.42.fr/42cursus-push_swap/pde-bakk) |
 
 ## Rank 4
@@ -34,36 +34,36 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
 [minishell](https://github.com/42pde-bakk/minishell) | The objective of this project is for you to create a simple shell. | [![pde-bakk's minishell Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1902306)](https://projects.intra.42.fr/42cursus-minishell/pde-bakk) |
-[libasm](https://github.com/42pde-bakk/libasm) | The aim of this project is to get familiar with assembly language. | [![pde-bakk's libasm Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1902308)](https://projects.intra.42.fr/42cursus-libasm/pde-bakk) |
-[ft_services](https://github.com/42pde-bakk/ft_services) | This project consist to clusturing an docker-compose application and deploy it with Kubernetes. | [![pde-bakk's ft_services Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1902307)](https://projects.intra.42.fr/42cursus-ft_services/pde-bakk) |
+[libasm](https://github.com/42pde-bakk/libasm) | The aim of this project is to get familiar with assembly language. | [![pde-bakk's libasm Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1902308)](https://projects.intra.42.fr/libasm/pde-bakk) |
+[ft_services](https://github.com/42pde-bakk/ft_services) | This project consist to clusturing an docker-compose application and deploy it with Kubernetes. | [![pde-bakk's ft_services Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1902307)](https://projects.intra.42.fr/ft_services/pde-bakk) |
 
 ## Rank 5
 
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
-[Philosophers](https://github.com/42pde-bakk/Philosophers) | In this project, you will learn the basics of threading a process.<br>You will learn how to make threads.<br>You will discover the mutex. | [![pde-bakk's Philosophers Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1936614)](https://projects.intra.42.fr/42cursus-Philosophers/pde-bakk) |
+[Philosophers](https://github.com/42pde-bakk/Philosophers) | In this project, you will learn the basics of threading a process.<br>You will learn how to make threads.<br>You will discover the mutex. | [![pde-bakk's Philosophers Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1936614)](https://projects.intra.42.fr/42cursus-philosophers/pde-bakk) |
 | [CPP Module 00](https://github.com/42pde-bakk/42CPP/tree/master/module00) | Namespace, classes, member functions, stdio stream,<br> initialization lists,static, const and lots of basic stuff. | [![pde-bakk's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1936611)](https://projects.intra.42.fr/cpp-module-00/pde-bakk) |
-| [CPP Module 01](https://github.com/42pde-bakk/42CPP/tree/master/module01) | Memory allocation, references, pointers to members,  File streams | [![pde-bakk's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1938620)](https://projects.intra.42.fr/cpp-module-00/pde-bakk) |
-| [CPP Module 02](https://github.com/42pde-bakk/42CPP/tree/master/module02) | Ad-hoc polymorphism, operators overload,  orthodox canonical classes | [![pde-bakk's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1939573)](https://projects.intra.42.fr/cpp-module-00/pde-bakk) |
-| [CPP Module 03](https://github.com/42pde-bakk/42CPP/tree/master/module03) | Inheritance | [![pde-bakk's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1940599)](https://projects.intra.42.fr/cpp-module-00/pde-bakk) |
-| [CPP Module 04](https://github.com/42pde-bakk/42CPP/tree/master/module04) | Subtype polymorphism, abstract classes, interfaces | [![pde-bakk's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1941774)](https://projects.intra.42.fr/cpp-module-00/pde-bakk) |
-| [CPP Module 05](https://github.com/42pde-bakk/42CPP/tree/master/module05) | Repetition,  Exceptions | [![pde-bakk's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1945962)](https://projects.intra.42.fr/cpp-module-00/pde-bakk) |
-| [CPP Module 06](https://github.com/42pde-bakk/42CPP/tree/master/module06) | Casts | [![pde-bakk's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1944384)](https://projects.intra.42.fr/cpp-module-00/pde-bakk) |
-| [CPP Module 07](https://github.com/42pde-bakk/42CPP/tree/master/module07) | Templates | [![pde-bakk's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1945962)](https://projects.intra.42.fr/cpp-module-00/pde-bakk) |
-| [CPP Module 08](https://github.com/42pde-bakk/42CPP/tree/master/module08) | Templated containers, iterators, algorithms | [![pde-bakk's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1958579)](https://projects.intra.42.fr/cpp-module-00/pde-bakk) |
+| [CPP Module 01](https://github.com/42pde-bakk/42CPP/tree/master/module01) | Memory allocation, references, pointers to members,  File streams | [![pde-bakk's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1938620)](https://projects.intra.42.fr/cpp-module-01/pde-bakk) |
+| [CPP Module 02](https://github.com/42pde-bakk/42CPP/tree/master/module02) | Ad-hoc polymorphism, operators overload,  orthodox canonical classes | [![pde-bakk's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1939573)](https://projects.intra.42.fr/cpp-module-02/pde-bakk) |
+| [CPP Module 03](https://github.com/42pde-bakk/42CPP/tree/master/module03) | Inheritance | [![pde-bakk's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1940599)](https://projects.intra.42.fr/cpp-module-03/pde-bakk) |
+| [CPP Module 04](https://github.com/42pde-bakk/42CPP/tree/master/module04) | Subtype polymorphism, abstract classes, interfaces | [![pde-bakk's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1941774)](https://projects.intra.42.fr/cpp-module-04/pde-bakk) |
+| [CPP Module 05](https://github.com/42pde-bakk/42CPP/tree/master/module05) | Repetition,  Exceptions | [![pde-bakk's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1945962)](https://projects.intra.42.fr/cpp-module-05/pde-bakk) |
+| [CPP Module 06](https://github.com/42pde-bakk/42CPP/tree/master/module06) | Casts | [![pde-bakk's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1944384)](https://projects.intra.42.fr/cpp-module-06/pde-bakk) |
+| [CPP Module 07](https://github.com/42pde-bakk/42CPP/tree/master/module07) | Templates | [![pde-bakk's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1945962)](https://projects.intra.42.fr/cpp-module-07/pde-bakk) |
+| [CPP Module 08](https://github.com/42pde-bakk/42CPP/tree/master/module08) | Templated containers, iterators, algorithms | [![pde-bakk's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1958579)](https://projects.intra.42.fr/cpp-module-08/pde-bakk) |
 
 ## Rank 5
 
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
-[ft_containers](https://github.com/42pde-bakk/ft_containers) | The multiple available containers in C++ all have a very different usage.<br>To make sure you understand them all, let's re-implement them! | [![pde-bakk's ft_containers Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1944384)](https://projects.intra.42.fr/42cursus-ft_containers/pde-bakk) |
-[webserv](https://github.com/42pde-bakk/webserv) | This project is here to make you write your own HTTP server.<br>You will be able to test it with a real browser.<br>HTTP is one of the most used protocol on internet.<br>Knowing its arcane will be useful, even if you won't be working on a website. | [![pde-bakk's webserv Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1976419)](https://projects.intra.42.fr/42cursus-webserv/pde-bakk) |
+[ft_containers](https://github.com/42pde-bakk/ft_containers) | The multiple available containers in C++ all have a very different usage.<br>To make sure you understand them all, let's re-implement them! | [![pde-bakk's ft_containers Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1944384)](https://projects.intra.42.fr/ft_containers/pde-bakk) |
+[webserv](https://github.com/42pde-bakk/webserv) | This project is here to make you write your own HTTP server.<br>You will be able to test it with a real browser.<br>HTTP is one of the most used protocol on internet.<br>Knowing its arcane will be useful, even if you won't be working on a website. | [![pde-bakk's webserv Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1976419)](https://projects.intra.42.fr/webserv/pde-bakk) |
 
 ## Rank 6
 
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
-[ft_transcendence](https://github.com/42pde-bakk/ft_transcendence) | This is not C or C++ basic functions!<br>To do something that you’ve never done before without a piscine.<br> Remind yourself at the beginning of your journey in computer science.<br>Now, look where you are standing. Time to shine! | [![pde-bakk's ft_transcendence Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2073591)](https://projects.intra.42.fr/42cursus-ft_transcendence/pde-bakk) |
+[ft_transcendence](https://github.com/42pde-bakk/ft_transcendence) | This is not C or C++ basic functions!<br>To do something that you’ve never done before without a piscine.<br> Remind yourself at the beginning of your journey in computer science.<br>Now, look where you are standing. Time to shine! | [![pde-bakk's ft_transcendence Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2073591)](https://projects.intra.42.fr/ft_transcendence/pde-bakk) |
 
 
 
@@ -71,7 +71,7 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 # Codam Advanced
 |			Name				| Description	| Mark |
 |:---------------:|:-----------:|:----:|
-[Internship I](https://github.com/42pde-bakk/internship-i) | Your first step in a company is an important milestone of your 42 training.<br>This internship entails discovering the professional world and putting your work and adaptation skills at the service of the market.<br>This is a first element for your resume and the opportunity to see emerge your future domain of interest. | [![pde-bakk's internship-i Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2136045)](https://projects.intra.42.fr/42cursus-internship-i/pde-bakk) |
+[Internship I](https://github.com/42pde-bakk/internship-i) | Your first step in a company is an important milestone of your 42 training.<br>This internship entails discovering the professional world and putting your work and adaptation skills at the service of the market.<br>This is a first element for your resume and the opportunity to see emerge your future domain of interest. | [![pde-bakk's internship-i Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2136045)](https://projects.intra.42.fr/internship-i/pde-bakk) |
 
 
 
@@ -86,7 +86,8 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 [ft_ssl_md5](https://github.com/42pde-bakk/ft_ssl) |  You will recode part of the OpenSSL program, specifically the MD5 Hashing Algorithm. | [![pde-bakk's ft_ssl_md5 Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2647238)](https://projects.intra.42.fr/42cursus-ft_ssl_md5/pde-bakk) |
 [ft_ssl_des](https://github.com/42pde-bakk/ft_ssl) |  Re-implementing the Data Encryption Standard | [![pde-bakk's ft_ssl_des Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2714376)](https://projects.intra.42.fr/42cursus-ft_ssl_des/pde-bakk) |
 [dr-quine](https://github.com/42pde-bakk/dr_quine) | Kleene's recursion theorem! | [![pde-bakk's dr-quine Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2763144)](https://projects.intra.42.fr/42cursus-dr-quine/pde-bakk) |
-[Snow-crash](https://github.com/42pde-bakk/dr_quine) | Doing my best dpattij impression | [![pde-bakk's snow-crash Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2420360)](https://projects.intra.42.fr/42cursus-snow-crash/pde-bakk) |
+[Snow-crash](https://github.com/42pde-bakk/snow-crash) | Doing my best dpattij impression | [![pde-bakk's snow-crash Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2420360)](https://projects.intra.42.fr/42cursus-snow-crash/pde-bakk) |
+[Rainfall](https://github.com/42pde-bakk/) | Exploits using gdb and Ghidra | [![pde-bakk's rainfall Score](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/2870125)](https://projects.intra.42.fr/42cursus-rainfall/pde-bakk) |
 
 
 ## Artificial Intelligence/Algorithms branch
