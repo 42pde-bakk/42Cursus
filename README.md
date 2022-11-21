@@ -8,6 +8,8 @@ These are all my projects in the 42Cursus of [Codam coding college](https://www.
 
 **ONLY USE THIS AS A REFERENCE, IF YOU COPY YOU RISK GETTING A -42!!**
 
+[Big thanks to Badge42 for all the images I used on this page!](https://github.com/JaeSeoKim/badge42)
+
 ## Rank 0
 
 |			Name				| Description	| Mark |
